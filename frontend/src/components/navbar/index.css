@@ -1,0 +1,16 @@
+* {
+    transition: 0.25s ease-in-out all;
+}
+
+.nav-bar {
+    background-color: #ff4d4d;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.nav-items {
+    display: flex;
+}
